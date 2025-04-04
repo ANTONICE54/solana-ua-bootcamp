@@ -1,0 +1,7 @@
+/home/anton/Documents/Projects/solana-ua-bootcamp/practice-1/rust-exercises/target/debug/deps/libsolana_precompile_error-1aad08143c585e4c.rmeta: /home/anton/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-precompile-error-2.2.1/src/lib.rs
+
+/home/anton/Documents/Projects/solana-ua-bootcamp/practice-1/rust-exercises/target/debug/deps/libsolana_precompile_error-1aad08143c585e4c.rlib: /home/anton/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-precompile-error-2.2.1/src/lib.rs
+
+/home/anton/Documents/Projects/solana-ua-bootcamp/practice-1/rust-exercises/target/debug/deps/solana_precompile_error-1aad08143c585e4c.d: /home/anton/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-precompile-error-2.2.1/src/lib.rs
+
+/home/anton/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-precompile-error-2.2.1/src/lib.rs:
